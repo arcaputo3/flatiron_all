@@ -475,3 +475,18 @@
 [submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-16-section-recap-summary-online-ds-sp-000"]
 	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-16-section-recap-summary-online-ds-sp-000
 	url = https://github.com/arcaputo3/dsc-1-12-16-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-05-object-oriented-attributes-with-functions-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-05-object-oriented-attributes-with-functions-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-07-05-object-oriented-attributes-with-functions-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-08-class-variables-and-instance-methods-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-08-class-variables-and-instance-methods-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-07-08-class-variables-and-instance-methods-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-09-inheritance-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-09-inheritance-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-07-09-inheritance-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-1-10-18-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-1-10-18-section-recap-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-10-18-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-11-02-introduction-summary-online-ds-sp-000
