@@ -1036,3 +1036,138 @@
 [submodule "Module_2/34-dimensionality-reduction-with-pca/dsc-2-34-01-introduction-online-ds-sp-000"]
 	path = Module_2/34-dimensionality-reduction-with-pca/dsc-2-34-01-introduction-online-ds-sp-000
 	url = https://github.com/arcaputo3/dsc-2-34-01-introduction-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-03-managing-time-series-data-lab-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-03-managing-time-series-data-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-25-03-managing-time-series-data-lab-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-04-visualizing-time-series-data-lab-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-04-visualizing-time-series-data-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-25-04-visualizing-time-series-data-lab-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-06-testing-for-trends-lab-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-06-testing-for-trends-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-25-06-testing-for-trends-lab-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-08-removing-trends-lab-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-08-removing-trends-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-25-08-removing-trends-lab-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-03-basic-time-series-models-lab-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-03-basic-time-series-models-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-26-03-basic-time-series-models-lab-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-05-correlation-and-autocorrelation-in-time-series-lab-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-05-correlation-and-autocorrelation-in-time-series-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-26-05-correlation-and-autocorrelation-in-time-series-lab-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-07-arma-models-lab-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-07-arma-models-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-26-07-arma-models-lab-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-08-sarima-models-lab-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-08-sarima-models-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-26-08-sarima-models-lab-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-09-facebook-prophet-lab-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-09-facebook-prophet-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-26-09-facebook-prophet-lab-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-03-distance-metrics-lab-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-03-distance-metrics-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-27-03-distance-metrics-lab-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-05-k-nearest-neighbors-lab-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-05-k-nearest-neighbors-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-27-05-k-nearest-neighbors-lab-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-08-evaluation-metrics-lab-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-08-evaluation-metrics-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-27-08-evaluation-metrics-lab-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-12-knn-with-sklearn-lab-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-12-knn-with-sklearn-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-27-12-knn-with-sklearn-lab-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-05-graphs-in-networkx-lab-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-05-graphs-in-networkx-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-28-05-graphs-in-networkx-lab-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-07-graph-theory-simple-shortest-path-lab-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-07-graph-theory-simple-shortest-path-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-28-07-graph-theory-simple-shortest-path-lab-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-09-graph-dynamics-node-centrality-lab-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-09-graph-dynamics-node-centrality-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-28-09-graph-dynamics-node-centrality-lab-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-11-graph-dynamics-bipartite-graphs-lab-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-11-graph-dynamics-bipartite-graphs-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-28-11-graph-dynamics-bipartite-graphs-lab-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-15-amazon-recommendation-system-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-15-amazon-recommendation-system-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-28-15-amazon-recommendation-system-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-03-fitting-a-logistic-regression-model-lab-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-03-fitting-a-logistic-regression-model-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-29-03-fitting-a-logistic-regression-model-lab-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-05-fitting-a-logistic-regression-model-lab2-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-05-fitting-a-logistic-regression-model-lab2-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-29-05-fitting-a-logistic-regression-model-lab2-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-06-evaluating-logistic-regression-models-lab-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-06-evaluating-logistic-regression-models-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-29-06-evaluating-logistic-regression-models-lab-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-07-visualizing-confusion-matrices-lab-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-07-visualizing-confusion-matrices-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-29-07-visualizing-confusion-matrices-lab-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-09-roc-curves-and-auc-lab-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-09-roc-curves-and-auc-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-29-09-roc-curves-and-auc-lab-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-11-class-imbalance-problems-lab-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-11-class-imbalance-problems-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-29-11-class-imbalance-problems-lab-online-ds-sp-000
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-05-gradient-descent-lab-online-ds-sp-000"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-05-gradient-descent-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-30-05-gradient-descent-lab-online-ds-sp-000
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-06-coding-logistic-regression-from-scratch-online-ds-sp-000"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-06-coding-logistic-regression-from-scratch-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-30-06-coding-logistic-regression-from-scratch-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-05-ID3-trees-perfect-split-info-gain-lab-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-05-ID3-trees-perfect-split-info-gain-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-31-05-ID3-trees-perfect-split-info-gain-lab-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-07-decision-tree-scikitlearn-lab-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-07-decision-tree-scikitlearn-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-31-07-decision-tree-scikitlearn-lab-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-lab-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-lab-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-10-regression-cart-trees-lab-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-10-regression-cart-trees-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-31-10-regression-cart-trees-lab-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-04-tree-ensembles-and-random-forests-lab-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-04-tree-ensembles-and-random-forests-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-32-04-tree-ensembles-and-random-forests-lab-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-06-gridsearchcv-lab-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-06-gridsearchcv-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-32-06-gridsearchcv-lab-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-09-gradient-boosting-lab-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-09-gradient-boosting-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-32-09-gradient-boosting-lab-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-11-xgboost-lab-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-11-xgboost-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-32-11-xgboost-lab-online-ds-sp-000
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-03-building-an-svm-from-scratch-lab-online-ds-sp-000"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-03-building-an-svm-from-scratch-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-33-03-building-an-svm-from-scratch-lab-online-ds-sp-000
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-04-building-an-svm-using-scikit-learn-online-ds-sp-000"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-04-building-an-svm-using-scikit-learn-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-33-04-building-an-svm-using-scikit-learn-online-ds-sp-000
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-06-kernels-in-scikit-learn-lab-online-ds-sp-000"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-06-kernels-in-scikit-learn-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-33-06-kernels-in-scikit-learn-lab-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-03-curse-of-dimensionality-simulation-lab-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-03-curse-of-dimensionality-simulation-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-34-03-curse-of-dimensionality-simulation-lab-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-07-pca-implementation-visualization-python-numpy-lab-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-07-pca-implementation-visualization-python-numpy-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-34-07-pca-implementation-visualization-python-numpy-lab-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-12-facial-recognition-with-pca-and-eigenfaces-lab-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-12-facial-recognition-with-pca-and-eigenfaces-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-34-12-facial-recognition-with-pca-and-eigenfaces-lab-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-04-k-means-clustering-lab-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-04-k-means-clustering-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-35-04-k-means-clustering-lab-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-07-hierarchical-agglomerative-clustering-lab-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-07-hierarchical-agglomerative-clustering-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-35-07-hierarchical-agglomerative-clustering-lab-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-09-market-segmentation-with-clustering-lab-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-09-market-segmentation-with-clustering-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-35-09-market-segmentation-with-clustering-lab-online-ds-sp-000
+[submodule "Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-03-comparing-machine-learning-techniques-using-pipelines-lab-online-ds-sp-000"]
+	path = Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-03-comparing-machine-learning-techniques-using-pipelines-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-36-03-comparing-machine-learning-techniques-using-pipelines-lab-online-ds-sp-000
+[submodule "Module_3/Project/dsc-3-final-project-online-ds-sp-000"]
+	path = Module_3/Project/dsc-3-final-project-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-3-final-project-online-ds-sp-000
