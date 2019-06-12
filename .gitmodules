@@ -1369,3 +1369,57 @@
 [submodule "Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-04-section-recap-online-ds-sp-000"]
 	path = Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-04-section-recap-online-ds-sp-000
 	url = https://github.com/arcaputo3/dsc-3-36-04-section-recap-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-06-corpus-statistics-lab-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-06-corpus-statistics-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-4-37-06-corpus-statistics-lab-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-10-text-classification-lab-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-10-text-classification-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-4-37-10-text-classification-lab-online-ds-sp-000
+[submodule "Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-04-singular-value-decomposition-numpy-scipy-lab-online-ds-sp-000"]
+	path = Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-04-singular-value-decomposition-numpy-scipy-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-4-39-04-singular-value-decomposition-numpy-scipy-lab-online-ds-sp-000
+[submodule "Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-06-building-recommendation-system-als-pyspark-online-ds-sp-000"]
+	path = Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-06-building-recommendation-system-als-pyspark-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-4-39-06-building-recommendation-system-als-pyspark-online-ds-sp-000
+[submodule "Module_4/40-introduction-to-deep-learning/dsc-04-40-03-introduction-to-neural-networks-lab-online-ds-sp-000"]
+	path = Module_4/40-introduction-to-deep-learning/dsc-04-40-03-introduction-to-neural-networks-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-40-03-introduction-to-neural-networks-lab-online-ds-sp-000
+[submodule "Module_4/41-multi-layer-perceptrons/dsc-04-41-03-deep-networks-lab-building-an-image-classifier-online-ds-sp-000"]
+	path = Module_4/41-multi-layer-perceptrons/dsc-04-41-03-deep-networks-lab-building-an-image-classifier-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-41-03-deep-networks-lab-building-an-image-classifier-online-ds-sp-000
+[submodule "Module_4/41-multi-layer-perceptrons/dsc-04-41-05-keras-lab-online-ds-sp-000"]
+	path = Module_4/41-multi-layer-perceptrons/dsc-04-41-05-keras-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-41-05-keras-lab-online-ds-sp-000
+[submodule "Module_4/42-regularization-and-optimization/dsc-04-42-03-tuning-neural-networks-with-regularization-lab-online-ds-sp-000"]
+	path = Module_4/42-regularization-and-optimization/dsc-04-42-03-tuning-neural-networks-with-regularization-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-42-03-tuning-neural-networks-with-regularization-lab-online-ds-sp-000
+[submodule "Module_4/42-regularization-and-optimization/dsc-04-42-05-normalization-and-tuning-neural-networks-lab-online-ds-sp-000"]
+	path = Module_4/42-regularization-and-optimization/dsc-04-42-05-normalization-and-tuning-neural-networks-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-42-05-normalization-and-tuning-neural-networks-lab-online-ds-sp-000
+[submodule "Module_4/42-regularization-and-optimization/dsc-04-42-06-tuning-and-optimizing-neural-networks-lab-online-ds-sp-000"]
+	path = Module_4/42-regularization-and-optimization/dsc-04-42-06-tuning-and-optimizing-neural-networks-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-42-06-tuning-and-optimizing-neural-networks-lab-online-ds-sp-000
+[submodule "Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-04-building-a-cnn-from-scratch-online-ds-sp-000"]
+	path = Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-04-building-a-cnn-from-scratch-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-43-04-building-a-cnn-from-scratch-online-ds-sp-000
+[submodule "Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-06-visualizing-intermediate-activations-lab-online-ds-sp-000"]
+	path = Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-06-visualizing-intermediate-activations-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-43-06-visualizing-intermediate-activations-lab-online-ds-sp-000
+[submodule "Module_4/44-convolutional-neural-networks-continued/dsc-04-44-04-image-classifcation-lab-online-ds-sp-000"]
+	path = Module_4/44-convolutional-neural-networks-continued/dsc-04-44-04-image-classifcation-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-44-04-image-classifcation-lab-online-ds-sp-000
+[submodule "Module_4/45-deep-nlp-word-embeddings/dsc-04-45-04-generating-word-embeddings-lab-online-ds-sp-000"]
+	path = Module_4/45-deep-nlp-word-embeddings/dsc-04-45-04-generating-word-embeddings-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-45-04-generating-word-embeddings-lab-online-ds-sp-000
+[submodule "Module_4/45-deep-nlp-word-embeddings/dsc-04-45-06-classification-with-word-embeddings-lab-online-ds-sp-000"]
+	path = Module_4/45-deep-nlp-word-embeddings/dsc-04-45-06-classification-with-word-embeddings-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-45-06-classification-with-word-embeddings-lab-online-ds-sp-000
+[submodule "Module_4/46-deep-nlp-sequence-models/dsc-04-46-05-LSTMs-and-GRUs-lab-online-ds-sp-000"]
+	path = Module_4/46-deep-nlp-sequence-models/dsc-04-46-05-LSTMs-and-GRUs-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-46-05-LSTMs-and-GRUs-lab-online-ds-sp-000
+[submodule "Module_4/46-deep-nlp-sequence-models/dsc-04-46-07-bidirectional-sequence-models-lab-online-ds-sp-000"]
+	path = Module_4/46-deep-nlp-sequence-models/dsc-04-46-07-bidirectional-sequence-models-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-04-46-07-bidirectional-sequence-models-lab-online-ds-sp-000
+[submodule "Module_4/Project/dsc-4-final-project-online-ds-sp-000"]
+	path = Module_4/Project/dsc-4-final-project-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-4-final-project-online-ds-sp-000
