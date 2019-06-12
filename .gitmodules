@@ -490,3 +490,138 @@
 [submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-02-introduction-summary-online-ds-sp-000"]
 	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-02-introduction-summary-online-ds-sp-000
 	url = https://github.com/arcaputo3/dsc-1-11-02-introduction-summary-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-08-linalg-vector-matrices-numpy-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-08-linalg-vector-matrices-numpy-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-13-08-linalg-vector-matrices-numpy-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-11-linalg-python-vs-numpy-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-11-linalg-python-vs-numpy-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-13-11-linalg-python-vs-numpy-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-13-linalg-lineq-numpy-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-13-linalg-lineq-numpy-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-13-13-linalg-lineq-numpy-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-15-linalg-regression-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-15-linalg-regression-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-13-15-linalg-regression-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-12-gradient-descent-step-sizes-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-12-gradient-descent-step-sizes-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-14-12-gradient-descent-step-sizes-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-16-applying-gradient-descent-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-16-applying-gradient-descent-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-14-16-applying-gradient-descent-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-04-review-using-sqlite-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-04-review-using-sqlite-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-13-04-review-using-sqlite-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-08-using-an-orm-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-08-using-an-orm-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-13-08-using-an-orm-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-11-queries-with-sqlalchemy-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-11-queries-with-sqlalchemy-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-13-11-queries-with-sqlalchemy-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-04-json-and-xml-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-04-json-and-xml-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-14-04-json-and-xml-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-06-known-json-schemas-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-06-known-json-schemas-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-14-06-known-json-schemas-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-08-recursive-fuctions-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-08-recursive-fuctions-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-14-08-recursive-fuctions-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-10-exploring-json-schemas-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-10-exploring-json-schemas-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-14-10-exploring-json-schemas-lab-online-ds-sp-000
+[submodule "Module_2/15-an-introduction-to-orms/dsc-2-15-06-http-request-response-cycle-lab-online-ds-sp-000"]
+	path = Module_2/15-an-introduction-to-orms/dsc-2-15-06-http-request-response-cycle-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-15-06-http-request-response-cycle-lab-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-04-html-intro-lab-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-04-html-intro-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-18-04-html-intro-lab-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-06-html-links-lab-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-06-html-links-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-18-06-html-links-lab-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-11-my-little-rainbow-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-11-my-little-rainbow-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-18-11-my-little-rainbow-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-12-kitten-into-wheelbarrow-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-12-kitten-into-wheelbarrow-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-18-12-kitten-into-wheelbarrow-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-13-graffitti-override-lab-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-13-graffitti-override-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-18-13-graffitti-override-lab-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-15-web-scraping-with-beautiful-soup-lab-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-15-web-scraping-with-beautiful-soup-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-18-15-web-scraping-with-beautiful-soup-lab-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-07-geometric-and-negative-binomial-distribution-lab-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-07-geometric-and-negative-binomial-distribution-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-19-07-geometric-and-negative-binomial-distribution-lab-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-08-poisson-distribution-lab-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-08-poisson-distribution-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-19-08-poisson-distribution-lab-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-13-central-limit-theorem-lab-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-13-central-limit-theorem-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-19-13-central-limit-theorem-lab-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-17-confidence-intervals-with-t-distribution-lab-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-17-confidence-intervals-with-t-distribution-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-19-17-confidence-intervals-with-t-distribution-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-08-1-sample-t-tests-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-08-1-sample-t-tests-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-20-08-1-sample-t-tests-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-09-2-sample-t-tests-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-09-2-sample-t-tests-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-20-09-2-sample-t-tests-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-11type-1-and-type-2-errors-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-11type-1-and-type-2-errors-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-20-11type-1-and-type-2-errors-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-13-statistical-power-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-13-statistical-power-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-20-13-statistical-power-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-14-effect-size-p-values-and-power-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-14-effect-size-p-values-and-power-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-20-14-effect-size-p-values-and-power-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-17-ab-testing-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-17-ab-testing-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-20-17-ab-testing-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-20-anova-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-20-anova-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-20-20-anova-lab-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-07-probability-simulations-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-07-probability-simulations-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-21-07-probability-simulations-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-14-bayesian-frameowork-lab-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-14-bayesian-frameowork-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-21-14-bayesian-frameowork-lab-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-08-NB-sklearn-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-08-NB-sklearn-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-22-08-NB-sklearn-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-11-natural-language-processing-lab-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-11-natural-language-processing-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-22-11-natural-language-processing-lab-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-12-naive-bayes-and-nlp-in-sklearn-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-12-naive-bayes-and-nlp-in-sklearn-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-22-12-naive-bayes-and-nlp-in-sklearn-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-14-document-classification-using-naive-bayes-lab-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-14-document-classification-using-naive-bayes-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-22-14-document-classification-using-naive-bayes-lab-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-04-kolmogorov-smirnov-test-lab-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-04-kolmogorov-smirnov-test-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-23-04-kolmogorov-smirnov-test-lab-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-09-resampling-methods-lab-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-09-resampling-methods-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-23-09-resampling-methods-lab-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-11-monte-carlo-simulations-lab-permutation-testing-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-11-monte-carlo-simulations-lab-permutation-testing-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-23-11-monte-carlo-simulations-lab-permutation-testing-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-04-interactions-lab-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-04-interactions-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-24-04-interactions-lab-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-08-bias-variance-trade-off-lab-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-08-bias-variance-trade-off-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-24-08-bias-variance-trade-off-lab-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-10-ridge-and-lasso-regression-lab-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-10-ridge-and-lasso-regression-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-24-10-ridge-and-lasso-regression-lab-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-12-extensions-to-linear-models-lab-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-12-extensions-to-linear-models-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-24-12-extensions-to-linear-models-lab-online-ds-sp-000
+[submodule "Module_2/Project/dsc-2-final-project-online-ds-sp-000"]
+	path = Module_2/Project/dsc-2-final-project-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-2-final-project-online-ds-sp-000
