@@ -157,3 +157,321 @@
 [submodule "Module_1/Project/dsc-1-final-project-online-ds-sp-000"]
 	path = Module_1/Project/dsc-1-final-project-online-ds-sp-000
 	url = https://github.com/arcaputo3/dsc-1-final-project-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-03-problems-ds-can-solve-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-03-problems-ds-can-solve-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-03-problems-ds-can-solve-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-04-the-data-science-process-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-04-the-data-science-process-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-04-the-data-science-process-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-05-setting-up-environment-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-05-setting-up-environment-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-05-setting-up-environment-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-06-working-with-lessons-on-learn-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-06-working-with-lessons-on-learn-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-06-working-with-lessons-on-learn-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-08-your-first-data-science-codealong-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-08-your-first-data-science-codealong-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-08-your-first-data-science-codealong-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-09-variable-assignment-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-09-variable-assignment-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-09-variable-assignment-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-10-strings-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-10-strings-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-10-strings-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-15-control-flow-conditionals-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-15-control-flow-conditionals-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-15-control-flow-conditionals-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-19-looping-over-collections-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-19-looping-over-collections-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-19-looping-over-collections-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-22-working-with-dictionaries-lab-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-22-working-with-dictionaries-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-22-working-with-dictionaries-lab-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-23-visualizing-data-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-23-visualizing-data-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-23-visualizing-data-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-27-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-27-section-recap-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-01-27-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-02-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-03-python-operators-functions-and-methods-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-03-python-operators-functions-and-methods-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-02-03-python-operators-functions-and-methods-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-05-while-loops-break-continue-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-05-while-loops-break-continue-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-02-05-while-loops-break-continue-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-07-using-nested-loops-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-07-using-nested-loops-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-02-07-using-nested-loops-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-09-creating-functions-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-09-creating-functions-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-02-09-creating-functions-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-11-functions-with-arguments-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-11-functions-with-arguments-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-02-11-functions-with-arguments-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-13-measures-of-central-tendency-summary-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-13-measures-of-central-tendency-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-02-13-measures-of-central-tendency-summary-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-15-measures-of-dispersion-summary-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-15-measures-of-dispersion-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-02-15-measures-of-dispersion-summary-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-21-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-21-section-recap-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-02-21-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-03-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-03-introducing-python-libraries-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-03-introducing-python-libraries-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-03-03-introducing-python-libraries-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-04-importing-data-using-pandas-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-04-importing-data-using-pandas-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-03-04-importing-data-using-pandas-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-05-importing-data-using-pandas-lab-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-05-importing-data-using-pandas-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-03-05-importing-data-using-pandas-lab-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-06-understanding-pandas-series-and-dataframes-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-06-understanding-pandas-series-and-dataframes-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-03-06-understanding-pandas-series-and-dataframes-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-10-statistical-methods-in-pandas-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-10-statistical-methods-in-pandas-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-03-10-statistical-methods-in-pandas-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-12-customizing-visualizations-with-matplotlib-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-12-customizing-visualizations-with-matplotlib-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-03-12-customizing-visualizations-with-matplotlib-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-14-data-visualization-with-pandas-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-14-data-visualization-with-pandas-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-03-14-data-visualization-with-pandas-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-19-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-19-section-recap-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-03-19-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-04-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-03-lambda-functions-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-03-lambda-functions-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-04-03-lambda-functions-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-06-combining-dataframes-with-pandas-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-06-combining-dataframes-with-pandas-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-04-06-combining-dataframes-with-pandas-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-08-pivot-tables-with-pandas-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-08-pivot-tables-with-pandas-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-04-08-pivot-tables-with-pandas-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-11-dealing-with-missing-data-quiz-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-11-dealing-with-missing-data-quiz-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-04-11-dealing-with-missing-data-quiz-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-05-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-07-filtering-and-ordering-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-07-filtering-and-ordering-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-05-07-filtering-and-ordering-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-09-introduction-to-table-relationships-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-09-introduction-to-table-relationships-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-05-09-introduction-to-table-relationships-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-10-join-statements-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-10-join-statements-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-05-10-join-statements-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-11-join-statements-lab-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-11-join-statements-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-05-11-join-statements-lab-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-12-one-to-many-and-many-to-many-joins-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-12-one-to-many-and-many-to-many-joins-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-05-12-one-to-many-and-many-to-many-joins-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-14-grouping-data-with-sql-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-14-grouping-data-with-sql-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-05-14-grouping-data-with-sql-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-16-using-sql-with-pandas-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-16-using-sql-with-pandas-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-05-16-using-sql-with-pandas-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-17-using-sql-with-pandas-lab-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-17-using-sql-with-pandas-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-05-17-using-sql-with-pandas-lab-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-19-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-19-section-recap-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-05-19-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-06-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-03-introduction-to-object-orientation-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-03-introduction-to-object-orientation-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-06-03-introduction-to-object-orientation-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-04-introduction-to-classes-and-instances-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-04-introduction-to-classes-and-instances-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-06-04-introduction-to-classes-and-instances-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-06-instance-methods-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-06-instance-methods-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-06-06-instance-methods-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-09-understanding-self-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-09-understanding-self-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-06-09-understanding-self-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-13-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-13-section-recap-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-06-13-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-07-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-03-object-initialization-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-03-object-initialization-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-07-03-object-initialization-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-10-inheritance-lab-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-10-inheritance-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-07-10-inheritance-lab-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-13-building-an-object-oriented-simulation-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-13-building-an-object-oriented-simulation-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-07-13-building-an-object-oriented-simulation-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-14-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-14-section-recap-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-07-14-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-08-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-03-intro-to-numpy-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-03-intro-to-numpy-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-08-03-intro-to-numpy-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-04-getting-started-with-numpy-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-04-getting-started-with-numpy-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-08-04-getting-started-with-numpy-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-06-introduction-to-combinatorics-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-06-introduction-to-combinatorics-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-08-06-introduction-to-combinatorics-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-07-introduction-to-sets-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-07-introduction-to-sets-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-08-07-introduction-to-sets-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-09-introduction-to-probability-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-09-introduction-to-probability-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-08-09-introduction-to-probability-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-11-permutations-and-factorials-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-11-permutations-and-factorials-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-08-11-permutations-and-factorials-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-13-combinations-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-13-combinations-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-08-13-combinations-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-15-bernoulli-and-binomial-distribution-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-15-bernoulli-and-binomial-distribution-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-08-15-bernoulli-and-binomial-distribution-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-17-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-17-section-recap-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-08-17-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-03-statistical-distributions-and-their-use-cases-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-03-statistical-distributions-and-their-use-cases-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-03-statistical-distributions-and-their-use-cases-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-04-statistical-distributions-with-stem-and-leaf-plots-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-04-statistical-distributions-with-stem-and-leaf-plots-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-04-statistical-distributions-with-stem-and-leaf-plots-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-05-statistical-distributions-with-stem-and-leaf-plots-labs-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-05-statistical-distributions-with-stem-and-leaf-plots-labs-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-05-statistical-distributions-with-stem-and-leaf-plots-labs-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-06-the-probability-mass-function-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-06-the-probability-mass-function-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-06-the-probability-mass-function-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-07-the-probability-mass-function-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-07-the-probability-mass-function-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-07-the-probability-mass-function-lab-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-08-the-cumulative-distribution-function-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-08-the-cumulative-distribution-function-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-08-the-cumulative-distribution-function-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-10-the-probability-density-function-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-10-the-probability-density-function-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-10-the-probability-density-function-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-12-normal-gaussian-distributions-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-12-normal-gaussian-distributions-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-12-normal-gaussian-distributions-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-13-normal-gaussian-distributions-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-13-normal-gaussian-distributions-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-13-normal-gaussian-distributions-lab-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-14-standard-normal-distribution-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-14-standard-normal-distribution-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-14-standard-normal-distribution-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-16-skewness-and-kurtosis-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-16-skewness-and-kurtosis-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-16-skewness-and-kurtosis-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-17-skewness-and-kurtosis-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-17-skewness-and-kurtosis-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-17-skewness-and-kurtosis-lab-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-18-statistical-testing-with-z-score-and-p-value-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-18-statistical-testing-with-z-score-and-p-value-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-18-statistical-testing-with-z-score-and-p-value-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-19-one-sample-z-test-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-19-one-sample-z-test-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-19-one-sample-z-test-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-20-one-sample-z-test-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-20-one-sample-z-test-lab-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-20-one-sample-z-test-lab-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-22-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-22-section-recap-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-09-22-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-1-10-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-1-10-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-10-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-01-10-11-regression-assumptions-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-01-10-11-regression-assumptions-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-01-10-11-regression-assumptions-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-01-10-12-ols-statsmodels-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-01-10-12-ols-statsmodels-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-01-10-12-ols-statsmodels-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-01-10-14-regression-diagnostics-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-01-10-14-regression-diagnostics-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-01-10-14-regression-diagnostics-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-01-10-15-significance-p-value-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-01-10-15-significance-p-value-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-01-10-15-significance-p-value-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-03-multiple-linear-regression-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-03-multiple-linear-regression-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-11-03-multiple-linear-regression-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-04-dealing-with-categorical-variables-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-04-dealing-with-categorical-variables-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-11-04-dealing-with-categorical-variables-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-06-multicollinearity-of-features-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-06-multicollinearity-of-features-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-11-06-multicollinearity-of-features-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-08-feature-scaling-and-normalization-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-08-feature-scaling-and-normalization-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-11-08-feature-scaling-and-normalization-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-10-multiple-linear-regression-in-statsmodels-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-10-multiple-linear-regression-in-statsmodels-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-11-10-multiple-linear-regression-in-statsmodels-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-12-adjusted-r-squared-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-12-adjusted-r-squared-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-11-12-adjusted-r-squared-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-14-regression-model-validation-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-14-regression-model-validation-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-11-14-regression-model-validation-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-16-introduction-to-cross-validation-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-16-introduction-to-cross-validation-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-11-16-introduction-to-cross-validation-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-19-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-19-section-recap-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-11-19-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-12-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-022-data-science-processes-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-022-data-science-processes-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-12-022-data-science-processes-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-03-obtaining-our-data-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-03-obtaining-our-data-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-12-03-obtaining-our-data-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-05-scrubbing-our-data-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-05-scrubbing-our-data-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-12-05-scrubbing-our-data-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-07-exploring-our-data-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-07-exploring-our-data-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-12-07-exploring-our-data-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-09-modelling-our-data-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-09-modelling-our-data-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-12-09-modelling-our-data-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-10-holdout-validation-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-10-holdout-validation-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-12-10-holdout-validation-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-16-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-16-section-recap-summary-online-ds-sp-000
+	url = https://github.com/arcaputo3/dsc-1-12-16-section-recap-summary-online-ds-sp-000
